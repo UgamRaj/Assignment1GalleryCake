@@ -2,6 +2,8 @@
 
 ## Hosted link
 
+[Gallery Cake](https://ugamraj.github.io/Assignment1GalleryCake/)
+
 ## Sections
 
 ![gc part1](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/b854034c-e8b3-447c-b5ff-5e32702a37db)
@@ -77,7 +79,10 @@ The `<body>` element contains all the contents of an HTML document, such as head
 
 ![gc part 8](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/735b2948-ca24-4807-a393-06f4ad8416a2)
 
-`<pre>` : The `<pre>` tag defines preformatted text. Text in a `<pre>` element is displayed in a fixed-width font, and the text preserves both spaces and line breaks.
+`<pre>` : The `<pre>` tag defines preformatted text. Text in a `<pre>` element is displayed in a fixed-width font, and the text preserves both spaces and line breaks. <br/>
+`<pre>` :  Contact Details 
+        Email:abc@gamil.com 
+        Mobile no. :8448xxxx18
 
 
 
